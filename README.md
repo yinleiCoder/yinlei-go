@@ -60,6 +60,10 @@ If you are interested in this project, please feel free to contact me to join us
 Of course, you are also welcome to actively raise issues.  
 Thank you!!!
 
+## Star 
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yinleiCoder/yinlei-flutter&type=Date)](https://star-history.com/#yinleiCoder/yinlei-flutter&Date)
+
 ## License
 
 **交契** is [GPL-3.0 licensed](./LICENSE).
