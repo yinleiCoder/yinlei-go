@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/gin-gonic/gin"
+)
 
 func main() {
 	done := make(chan int, 1)
