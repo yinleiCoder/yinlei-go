@@ -14,6 +14,7 @@ Hi！Welcome to **交契** . The general introduction is as follows:
 ## Why do i name this
 人生交契无老少，论交何必先同调。——唐*杜甫《徒步归行》
 > 注：与朋友交往不必在乎身份地位年龄等之间的差异，重要的是朋友之间能够交心。有道是人之相识贵在相知，人之相知，贵在知心。与知心友相交，其他的世俗事又何必理会呢？
+呆子，赶紧写项目，别发牢骚了。
 
 ## Prerequisites
 
